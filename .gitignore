@@ -29,6 +29,9 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
+.vscode
+.dart_tool
+.idea
 /build/
 /linux
 
